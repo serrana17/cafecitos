@@ -5,6 +5,7 @@ import Products from './components/Products'
 import Profiles from './components/Profiles'
 import NearMe from './components/NearMe'
 import CTA from './components/CTA'
+import Newsletter from './components/Newsletter'
 import Footer from './components/Footer'
 import './App.css'
 
@@ -17,6 +18,7 @@ function App() {
       <Profiles />
       <NearMe />
       <CTA />
+      <Newsletter />
       <Footer />
     </div>
   )
